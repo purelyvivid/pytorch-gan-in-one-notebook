@@ -8,7 +8,7 @@
 
 - Pix2Pix-facades [[colab]](https://drive.google.com/file/d/1UkeibuysuzYWGe8ovEJC3M5T7iCPXg-R/view?usp=sharing)
 
-  ![]('0189.jpg')
+![]('0189.jpg')
 
 
 
