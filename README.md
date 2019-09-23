@@ -8,7 +8,7 @@
 
 - WGAN-mnist [[paper(2017)]](https://arxiv.org/abs/1701.07875) [[ipynb]](WGAN.ipynb)
 
-- CycleGAN [[paper(2017)]](https://arxiv.org/abs/1703.10593) [[ipynb]](cycleGAN.ipynb)
+- CycleGAN-mnist2svhn [[paper(2017)]](https://arxiv.org/abs/1703.10593) [[ipynb]](cycleGAN_28x28.ipynb)
 
 
 
