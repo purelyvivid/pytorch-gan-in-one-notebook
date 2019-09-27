@@ -18,9 +18,9 @@
     - mnist2svhn [[ipynb]](cycleGAN_28x28.ipynb) [[ipynb_2]](cycleGAN_28x28_1.ipynb)
    
   ![demo-cyclegan-0099_mnist2svhn](figs/demo-cyclegan-0099_mnist2svhn.jpg)
-  ![demo-cyclegan-0099_svhn2mnist](figs/demo-cyclegan-0059_svhn2mnist.jpg)  
+  ![demo-cyclegan-0059_svhn2mnist](figs/demo-cyclegan-0059_svhn2mnist.jpg)  
   
     - summer2winter [[ipynb]](cycleGAN_256x256.ipynb)
 
-  ![demo-cyclegan-0019_summer2winter](figs/demo-cyclegan-0099_summer2winter.jpg)
-  ![demo-cyclegan-0049_winter2summer](figs/demo-cyclegan-0099_winter2summer.jpg)
+  ![demo-cyclegan-0019_summer2winter](figs/demo-cyclegan-0019_summer2winter.jpg)
+  ![demo-cyclegan-0049_winter2summer](figs/demo-cyclegan-0049_winter2summer.jpg)
