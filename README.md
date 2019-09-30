@@ -14,7 +14,7 @@
 - WGAN [[paper(2017)]](https://arxiv.org/abs/1701.07875) 
   - fullyconnected-mnist [[ipynb]](WGAN.ipynb)
   
-   ![demo-wgan-0199](figs/demo-wgan-0199.jpg) 
+   ![demo-wgan-0199](figs/demo-wgan-0199_1.jpg) 
   
   - fullyconnected-mnist-with-L2-regularization [[ipynb]](WGAN_w_Reg.ipynb)
   
